@@ -68,3 +68,8 @@ Contributing
 
 Feel free to fork the repository, submit issues, or create pull requests if you'd like to contribute.
 
+🧑‍💻 Author:
+
+Deepanshu Gupta
+
+🌐 GitHub: Deepanshu1194
